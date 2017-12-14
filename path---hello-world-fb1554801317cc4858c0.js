@@ -1,0 +1,2 @@
+webpackJsonp([0x834755aae49e],{476:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Blanc Bits Byte Best",author:"Amasa Amos"}},markdownRemark:{id:"/Users/amasa.amos/Projects/blog/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark",html:"<p>Setting up my personal blog on a static site using gatsby.js</p>",frontmatter:{title:"First Post",date:"December 14, 2017"}}},pathContext:{slug:"/hello-world/"}}}});
+//# sourceMappingURL=path---hello-world-fb1554801317cc4858c0.js.map

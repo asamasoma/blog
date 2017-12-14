@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{477:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Blanc Bits Byte Best"}},allMarkdownRemark:{edges:[{node:{excerpt:"Setting up my personal blog on a static site using gatsby.js",fields:{slug:"/hello-world/"},frontmatter:{date:"14 December, 2017",title:"First Post"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-e6b422a5db149e8ed451.js.map
